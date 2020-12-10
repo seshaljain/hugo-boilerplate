@@ -1,0 +1,12 @@
+{
+  "name": "hugo-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "start": "hugo serve"
+  },
+  "keywords": [],
+  "author": "Seshal Jain",
+  "license": "ISC"
+}
